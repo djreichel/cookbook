@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+#from create react express boilerplate
+node_modules
+.DS_Store
+package-lock.json
+build/
